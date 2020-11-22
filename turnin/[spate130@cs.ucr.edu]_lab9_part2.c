@@ -1,7 +1,7 @@
 /*	Author: Smit Patel
  *  Partner(s) Name: 
  *	Lab Section:023
- *	Assignment: Lab #9  Exercise #1
+ *	Assignment: Lab #9  Exercise #2
  *	Exercise Description: [optional - include for your own benefit]
  *
  *	I acknowledge all content contained herein, excluding template or example
